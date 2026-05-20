@@ -9,4 +9,4 @@ jobs:
       - name: check python version
         run: python --version
       - name: run python file
-        run: python3 hello.py
+        run: python3 hello.py 
